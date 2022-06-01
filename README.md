@@ -4,3 +4,6 @@ These skills are essential java basics for transitioning to:
 - Spring Framework, 
 - Java EE, 
 - Android development and more.
+
+
+I will use LearningJava branch to explain topics and solve exercieses. 
