@@ -6,4 +6,4 @@ These skills are essential java basics for transitioning to:
 - Android development and more.
 
 
-I will use LearningJava branch to explain topics and solve exercieses. 
+I will use LearningJava branch to explain topics and solve exercises. 
