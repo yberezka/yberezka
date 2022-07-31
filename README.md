@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="top" style="width: 90%" />
 </div>  
